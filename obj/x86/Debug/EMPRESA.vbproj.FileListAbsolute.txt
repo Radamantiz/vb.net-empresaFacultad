@@ -1,0 +1,32 @@
+c:\documents and settings\mec\mis documentos\visual studio 2010\Projects\EMPRESA\bin\Debug\EMPRESA.exe.config
+c:\documents and settings\mec\mis documentos\visual studio 2010\Projects\EMPRESA\bin\Debug\EMPRESA.exe
+c:\documents and settings\mec\mis documentos\visual studio 2010\Projects\EMPRESA\bin\Debug\EMPRESA.pdb
+c:\documents and settings\mec\mis documentos\visual studio 2010\Projects\EMPRESA\bin\Debug\EMPRESA.xml
+c:\documents and settings\mec\mis documentos\visual studio 2010\Projects\EMPRESA\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\mec\mis documentos\visual studio 2010\Projects\EMPRESA\obj\x86\Debug\EMPRESA.FrmEmpleados.resources
+c:\documents and settings\mec\mis documentos\visual studio 2010\Projects\EMPRESA\obj\x86\Debug\EMPRESA.Resources.resources
+c:\documents and settings\mec\mis documentos\visual studio 2010\Projects\EMPRESA\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\mec\mis documentos\visual studio 2010\Projects\EMPRESA\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\mec\mis documentos\visual studio 2010\Projects\EMPRESA\obj\x86\Debug\EMPRESA.exe
+c:\documents and settings\mec\mis documentos\visual studio 2010\Projects\EMPRESA\obj\x86\Debug\EMPRESA.xml
+c:\documents and settings\mec\mis documentos\visual studio 2010\Projects\EMPRESA\obj\x86\Debug\EMPRESA.pdb
+D:\Alumno\Desktop\EMPRESA\bin\Debug\EMPRESA.exe.config
+D:\Alumno\Desktop\EMPRESA\obj\x86\Debug\EMPRESA.exe
+D:\Alumno\Desktop\EMPRESA\obj\x86\Debug\EMPRESA.xml
+D:\Alumno\Desktop\EMPRESA\obj\x86\Debug\EMPRESA.pdb
+D:\Alumno\Desktop\EMPRESA\bin\Debug\EMPRESA.exe
+D:\Alumno\Desktop\EMPRESA\bin\Debug\EMPRESA.pdb
+D:\Alumno\Desktop\EMPRESA\bin\Debug\EMPRESA.xml
+D:\Alumno\Desktop\EMPRESA\obj\x86\Debug\EMPRESA.FrmEmpleados.resources
+D:\Alumno\Desktop\EMPRESA\obj\x86\Debug\EMPRESA.Resources.resources
+D:\Alumno\Desktop\EMPRESA\obj\x86\Debug\EMPRESA.vbproj.GenerateResource.Cache
+C:\Users\Lucas\Desktop\EMPRESA\bin\Debug\EMPRESA.exe.config
+C:\Users\Lucas\Desktop\EMPRESA\obj\x86\Debug\EMPRESA.exe
+C:\Users\Lucas\Desktop\EMPRESA\obj\x86\Debug\EMPRESA.xml
+C:\Users\Lucas\Desktop\EMPRESA\obj\x86\Debug\EMPRESA.pdb
+C:\Users\Lucas\Desktop\EMPRESA\bin\Debug\EMPRESA.exe
+C:\Users\Lucas\Desktop\EMPRESA\bin\Debug\EMPRESA.pdb
+C:\Users\Lucas\Desktop\EMPRESA\bin\Debug\EMPRESA.xml
+C:\Users\Lucas\Desktop\EMPRESA\obj\x86\Debug\EMPRESA.FrmEmpleados.resources
+C:\Users\Lucas\Desktop\EMPRESA\obj\x86\Debug\EMPRESA.Resources.resources
+C:\Users\Lucas\Desktop\EMPRESA\obj\x86\Debug\EMPRESA.vbproj.GenerateResource.Cache
